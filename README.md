@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Diimzyyy
-- 👀 I’m interested in TypeScript 
-- 🌱 I’m currently learning TypeScript
+- Tea Username : Diimzyyy
 
 <!---
 Diimzyyy/Diimzyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
